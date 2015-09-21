@@ -1,0 +1,4 @@
+hello earth
+hello 901
+NSString *string = [NSString stringWithFormat:""]
+NSLog(@"",string)
