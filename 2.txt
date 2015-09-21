@@ -1,4 +1,5 @@
 hello earth
-hello 901
+hello 901 APP Class
 NSString *string = [NSString stringWithFormat:""]
 NSLog(@"",string)
+[NSUserDeafault userdefault]
