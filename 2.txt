@@ -4,5 +4,5 @@ NSString *string = [NSString stringWithFormat:""]
 NSLog(@"",string)
 [NSUserDefault userdefault]
 
-我覺得這個比較帥
+我覺得這個醜暴了！！＝ˇ＝
 
