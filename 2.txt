@@ -5,3 +5,4 @@ NSLog(@"",string)
 [NSUserDefault userdefault]
 
 我覺得這個比較帥
+
